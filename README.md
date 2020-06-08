@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/crzyazblue1/b189ad87-4f54-496d-91b2-1a3bf48af4f8/7419e84e-b1a8-4b7f-b3ee-d6a60fafcedf/_apis/work/boardbadge/964a7e5f-b93a-4652-b0f8-2ec1fa9d736d)](https://dev.azure.com/crzyazblue1/b189ad87-4f54-496d-91b2-1a3bf48af4f8/_boards/board/t/7419e84e-b1a8-4b7f-b3ee-d6a60fafcedf/Microsoft.RequirementCategory)
 # [Academic Kickstart](https://sourcethemes.com/academic/)
 
 **Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
